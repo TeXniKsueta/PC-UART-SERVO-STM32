@@ -27,6 +27,8 @@ after you do this, copy the code from main.c and stm32f1xx_it.c start the Termin
 (in order for the condition that the number was sent and accepted via UART to be fulfilled) 
 connect everything as in the screenshot in CubeMX the very first photo and everything will work for you!
 
+How it works: https://drive.google.com/file/d/1F9RiRI4WFVoOtiglQtJ0mbToFBK5tAG8/view?usp=sharing
+
 Components used in the project:
 
 USB-UART Converter: https://aliexpress.ru/item/1005001621818602.html?sku_id=12000016846616799&spm=a2g2w.productlist.search_results.0.187468d28Y6AAc
